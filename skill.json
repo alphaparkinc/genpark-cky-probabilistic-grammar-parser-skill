@@ -1,0 +1,17 @@
+{
+  "name": "genpark-cky-probabilistic-grammar-parser-skill",
+  "version": "1.0.0",
+  "description": "Cocke-Younger-Kasami (CKY) dynamic programming chart parser for Probabilistic Context-Free Grammars (PCFGs) in Chomsky Normal Form.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "cky-parser",
+    "pcfg",
+    "probabilistic-grammar",
+    "nlp",
+    "dynamic-programming"
+  ],
+  "dependencies": []
+}
